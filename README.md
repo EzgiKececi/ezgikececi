@@ -6,7 +6,7 @@
 
 🤔 I’m looking for help with: Software architecture and best practices.
 ## Connect with me
-<a href="https://www.linkedin.com/in/cengizcmataraci/">
+<a href="https://www.linkedin.com/in/ezgikececi/">
     <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn Icon" width="20" height="20" />
 </a> 
 
