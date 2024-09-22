@@ -6,5 +6,5 @@
 
 🤔 I’m looking for help with: Software architecture and best practices.
 
-Connect With Me:
-[LinkedIn](https://www.linkedin.com/in/ezgikececi/) ![LinkedIn Icon](https://path-to-your-icon.com/linkedin-icon.png)
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/adınız/) ![LinkedIn Icon](https://path-to-your-icon.com/linkedin-icon.png)
