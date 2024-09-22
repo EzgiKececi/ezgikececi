@@ -8,7 +8,7 @@
 ## Connect with me
 <a href="https://www.linkedin.com/in/cengizcmataraci/">
     <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn Icon" width="20" height="20" />
-</a> LinkedIn
+</a> 
 
 ## Technologies
 <span>
