@@ -1,34 +1,16 @@
-## Hi there, I'm Ezgi! 👋
+<h1 align="center">Hi 👋, I'm Ezgi</h1>
+<h3 align="center">Junior Full-Stack Developer</h3>
 
-🌱 I’m currently learning: C#, .NET Core
+- 🔭 I’m currently working on **C#**
 
-👯 I’m looking to collaborate on: Open-source projects, web applications.
+- 📫 How to reach me **ezgikececii@gmail.com**
 
-🤔 I’m looking for help with: Software architecture and best practices.
-## Connect with me
-<a href="https://www.linkedin.com/in/ezgikececi/">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn Icon" width="20" height="20" />
-</a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Technologies
-<span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.svg" alt="C#" width="20" height="20" /> 
-</span>
-<span>
-    <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET Core" width="20" height="20" /> 
-</span>
-<span>
-    <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="20" height="20" /> 
-</span>
-<span>
-    <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="20" height="20" /> 
-</span>
-
-## Tools
-<span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo.png" alt="Visual Studio" width="20" height="20" /> 
-</span>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 
 
